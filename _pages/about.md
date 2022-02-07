@@ -16,8 +16,8 @@ I spent wonderful time and laid a solid foundation in complex network in [M3Nets
    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
                 <tbody>
                     <tr>
-                        <td style="padding:20px;width:25%;vertical-align:middle">
-                            <img src="../images/Beihang.png" width="160" height="160">
+                        <td style="padding:20px;width:30%;vertical-align:middle">
+                            <img src="../images/beihang.png" width="160" height="160">
                         </td>
                         <td style="padding:20px;width:100%;vertical-align:middle">
                             <a href="https://ev.buaa.edu.cn/">
@@ -32,6 +32,7 @@ I spent wonderful time and laid a solid foundation in complex network in [M3Nets
                     </tr>
                 </tbody>
             </table>
+
 
 
 ## Publication
@@ -49,7 +50,7 @@ I spent wonderful time and laid a solid foundation in complex network in [M3Nets
                             <br>
                             <strong>Wei Lin</strong>, <a href="http://m3nets.de/group/sw.html">Sebastian Wandelt,</a> <a href="http://m3nets.de/group/xs.html">Xiaoqian Sun</a>
                             <br>
-                            <em>Soft Computing</em>, 2021 &nbsp<font color="red"><strong>IF=3.643 (Q2)</strong></font>
+                            <em>Soft Computing</em>, 2021  <font color="red"><strong>IF=3.643 (Q2)</strong></font>
                             <br>
                             <a href="../files/SOCO.pdf">pdf</a> &nbsp
                             <p>In this study, we propose a novel network attack technique based on genetic algorithms. Results show that our novel technique significantly outperforms the state-of-the-art methods, providing an interesting sweet spot between attack quality and computational complexity.</p>
@@ -66,7 +67,7 @@ I spent wonderful time and laid a solid foundation in complex network in [M3Nets
                             <br>
                             <a href="http://m3nets.de/group/sw.html">Sebastian Wandelt</a>, <strong>Wei Lin</strong>, <a href="http://m3nets.de/group/xs.html">Xiaoqian Sun</a>
                             <br>
-                            <em>Reliability Engineering & System Safety</em>, 2021 &nbsp<font color="red"><strong>IF=6.188 (Q1) </strong></font>
+                            <em>Reliability Engineering & System Safety</em>, 2021  <font color="red"><strong>IF=6.188 (Q1) </strong></font>
                             <br>
                             <a href="../files/RESS.pdf">pdf</a>
                             <p>In this study, we propose a novel perspective to solve the network dismantling problem. Instead of designing an effective attack from scratch, we show how knowledge extracted from random failures in the network leads to extremely effective attacks. Experiments on a wide range of networks show the
@@ -76,6 +77,7 @@ and scalability.</p>
                     </tr>
                 </tbody>
             </table>
+
 
 ## Awards
 
