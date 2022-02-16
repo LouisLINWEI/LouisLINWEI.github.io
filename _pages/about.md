@@ -26,12 +26,13 @@ I spent wonderful time and laid a solid foundation in complex network in [M3Nets
                             <p></p>
                             <em>BEng in mechanical engineering (with honors)</em> &nbsp&nbsp 2019.09 - 2023.06(expected)
                             <p></p>
-                            <strong>GPA: 3.83/4 &nbsp&nbsp 90.7/100</strong> 
+                            <strong>GPA: 3.83/4 90.7/100</strong> 
                             <P>Courses: Calculus (100/100), Computer Science and Programming (100/100), Data Management and Artifitial Intelligence (100/100), Probability and Statistic (100/100), Introduction to deep learning and its applications (96/100), Linear Algebra (95/100), Natural Language Processing (91/100) </P>
                         </td>
                     </tr>
                 </tbody>
             </table>
+
 
 
 
@@ -52,7 +53,7 @@ I spent wonderful time and laid a solid foundation in complex network in [M3Nets
                             <br>
                             <em>Soft Computing</em>, 2021  <font color="red"><strong>IF=3.643 (Q2)</strong></font>
                             <br>
-                            <a href="../files/SOCO.pdf">pdf</a> &nbsp
+                            <a href="../files/SOCO.pdf">pdf</a> 
                             <p>In this study, we propose a novel network attack technique based on genetic algorithms. Results show that our novel technique significantly outperforms the state-of-the-art methods, providing an interesting sweet spot between attack quality and computational complexity.</p>
                         </td>
                     </tr>
@@ -77,6 +78,7 @@ and scalability.</p>
                     </tr>
                 </tbody>
             </table>
+
 
 
 ## Awards
