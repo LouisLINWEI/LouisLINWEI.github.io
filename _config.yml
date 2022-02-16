@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lin Wei"
+title                    : "Lin Wei's homepage"
 title_separator          : "-"
 name                     : &name "Lin Wei"
 description              : &description "personal description"
