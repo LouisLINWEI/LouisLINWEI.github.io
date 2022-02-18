@@ -24,7 +24,7 @@ I spent wonderful time and laid a solid foundation in complex network in [M3Nets
                                 <papertitle>Beihang University, China</papertitle>
                             </a>
                             <p></p>
-                            <em>BEng in mechanical engineering (with honors)</em> &nbsp&nbsp 2019.09 - 2023.06(expected)
+                            <em>BEng in mechanical engineering (with honors)</em>   2019.09 - 2023.06(expected)
                             <p></p>
                             <strong>GPA: 3.83/4 90.7/100</strong> 
                             <P>Courses: Calculus (100/100), Computer Science and Programming (100/100), Data Management and Artifitial Intelligence (100/100), Probability and Statistic (100/100), Introduction to deep learning and its applications (96/100), Linear Algebra (95/100), Natural Language Processing (91/100) </P>
@@ -32,9 +32,6 @@ I spent wonderful time and laid a solid foundation in complex network in [M3Nets
                     </tr>
                 </tbody>
             </table>
-
-
-
 
 ## Publication
 
@@ -78,7 +75,41 @@ and scalability.</p>
                     </tr>
                 </tbody>
             </table>
+## Project
 
+ <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+                <tbody>
+                    <tr>
+                        <td style="padding:20px;width:30%;vertical-align:middle">
+                            <img src="../images/icmmcm_brain.png" width="200" height="100">
+                        </td>
+                        <td style="padding:20px;width:70%;vertical-align:middle">
+                            <papertitle>Unveil the Mystery behind Musical Evolution</papertitle>
+                            <p></p>
+                            <strong> The finalist price of Interdisplinary Contest In Modeling (ICM)</strong> <a href='../files/icmmcm_certificate.pdf'>Certificate of Achievement</a>
+                            <p></p>
+                            <br>
+                            2021.02  
+                            <br>
+                            Supervised by <a href="http://m3nets.de/group/sw.html">Prof. Sebastian Wandelt</a>
+                            <br>
+                            <a href="../files/icmmcm.pdf">pdf</a>
+                            <ul style="padding-left:20px;margin:5px">
+                                <li>
+                                    Build up a computational framework to evaluate the effect of musical influence on the temporal and spatial development
+of artist and genre.
+                                </li>
+                                <li>
+                                    Use Heterogeneous Euclidean-Overlap Metric to measure the music similarity.
+                                </li>
+                                <li>
+                                    Propose the General Index of Genre Development based on the combined effect of I-index, popularity and release
+frequency of intra-genre artists.
+                                </li>
+                        </td>
+                    </tr>
+                    </tbody>
+            </table>
 
 
 ## Awards
