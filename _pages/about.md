@@ -106,10 +106,12 @@ of artist and genre.
                                     Propose the General Index of Genre Development based on the combined effect of I-index, popularity and release
 frequency of intra-genre artists.
                                 </li>
+                            </ul>
                         </td>
                     </tr>
                     </tbody>
             </table>
+
 
 
 
