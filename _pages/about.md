@@ -81,12 +81,12 @@ and scalability.</p>
                 <tbody>
                     <tr>
                         <td style="padding:20px;width:30%;vertical-align:middle">
-                            <img src="../images/icmmcm_brain.png" width="200" height="100">
+                            <img src="../images/icmmcm_brain.png" width="200" height="150">
                         </td>
                         <td style="padding:20px;width:70%;vertical-align:middle">
                             <papertitle>Unveil the Mystery behind Musical Evolution</papertitle>
                             <p></p>
-                            <strong> The finalist price of Interdisplinary Contest In Modeling (ICM)</strong> <a href='../files/icmmcm_certificate.pdf'>Certificate of Achievement</a>
+                            <strong> The finalist price of Interdisplinary Contest In Modeling (Top 1% among candidates worldwide)</strong> <a href='../files/icmmcm_certificate.pdf'>Certificate of Achievement</a>
                             <p></p>
                             <br>
                             2021.02  
@@ -111,8 +111,6 @@ frequency of intra-genre artists.
                     </tr>
                     </tbody>
             </table>
-
-
 
 
 
