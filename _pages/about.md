@@ -228,7 +228,7 @@ frequency of intra-genre artists.
                             Supervised by <a href="http://www.nlsde.buaa.edu.cn/info/1071/1586.htm">Prof. Ding Rong</a> 
                             <ul style="padding-left:20px;margin:5px">
                                 <li>Chinese word segmentation <a href="../files/NLP/chinese_word_segmantation.pdf">pdf (chinese)</a> | <a href="../files/NLP/chinese_word_segmantation.zip">code</a></li>
-                                <li>Named Entity Recognition <a href="../files/NLP/NER.pdf">pdf (chinese)</a> | <a href=."./files/NLP/NER.zip">code</a></li>
+                                <li>Named Entity Recognition <a href="../files/NLP/NER.pdf">pdf (chinese)</a> | <a href="../files/NLP/NER.zip">code</a></li>
                                 <li>Text classification <a href="../files/NLP/textclassification.pdf">pdf (chinese)</a> | <a href="../files/NLP/textclassification.zip">code</a></li>
                             <li>Automatic text summarization 
                                 <a href="../files/NLP/ATS.pdf">pdf (chinese)</a> | <a href="../files/NLP/ATS.zip">code</a></li>
