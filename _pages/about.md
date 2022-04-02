@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a third-year undergraduate student at [Beihang University](www.buaa.edu.cn)  My research interests include complex network, machine learning and graph learning. 
 
-I spent wonderful time and laid a solid foundation in complex network in [M3Nets](m3nets.de) at National Key Laboratory of CNS/ATM, supervised by Prof. [Sebastian Wandelt](http://m3nets.de/group/sw.html). Moreover, I did some data mining research with Prof. [Sun Leilei](http://scse.buaa.edu.cn/info/1080/6322.htm) during scientific research course. 
+I spent wonderful time and laid a solid foundation in complex network in [M3Nets](m3nets.de) at National Key Laboratory of CNS/ATM, supervised by Prof. [Sebastian Wandelt](http://m3nets.de/group/sw.html). Currently, I am a research intern in [WISC Lab](https://www.cse.cuhk.edu.hk/irwin.king/wisc_lab/home), studying graph learning in hyperbolic space under the guidance of Prof. [Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home).
 
 <strong><font color=red>I am looking for a Ph.D. position starting from 2023 Fall! I am passionate about graph learning, complex network and data mining. If you have any helpful information, please contact me! Thank you very much!</font></strong>
 
@@ -121,7 +121,7 @@ and scalability.</p>
                 </tbody>
             </table>
 
-## Project
+## Course Project
 
  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
                 <tbody>
@@ -159,7 +159,7 @@ frequency of intra-genre artists.
                             <img src="../images/EDGC.png" width="200" height="150">
                         </td>
                         <td style="padding:20px;width:100%;vertical-align:middle">
-                            <papertitle>Portable camera platform suitable for mobile device stand</papertitle>
+                            <papertitle>Portable Camera Platform Suitable for Mobile Device Stand</papertitle>
                             <p></p>
                             2020.06 
                             <br>
@@ -193,7 +193,7 @@ frequency of intra-genre artists.
                             <img src="../images/IGE.png" width="200" height="300">
                         </td>
                         <td style="padding:20px;width:100%;vertical-align:middle">
-                            <papertitle>A walking assistance system</papertitle>
+                            <papertitle>A Walking Assistance System</papertitle>
                             <p></p>
                             2020.06 
                             <br>
@@ -208,7 +208,7 @@ frequency of intra-genre artists.
                             <img src="../images/IDL.png" width="200" height="150">
                         </td>
                         <td style="padding:20px;width:100%;vertical-align:middle">
-                            <papertitle>Recommentation system based on deep learning</papertitle>
+                            <papertitle>Recommentation System Based on MLP</papertitle>
                             <p></p>
                             2021.11 
                             <br>
@@ -223,7 +223,7 @@ frequency of intra-genre artists.
                             <img src="../images/NLP_wordcloud.png" width="200" height="200">
                         </td>
                         <td style="padding:20px;width:100%;vertical-align:middle">
-                            <papertitle>Natural Language Processing</papertitle>
+                            <papertitle>Natural Language Processing Course Projects</papertitle>
                             <p></p>
                             2021.09
                             <br>
@@ -239,6 +239,7 @@ frequency of intra-genre artists.
                     </tr>
                     </tbody>
             </table>
+
 
 
 ## Awards
