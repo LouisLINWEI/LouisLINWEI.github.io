@@ -28,12 +28,13 @@ I spent wonderful time and laid a solid foundation in complex network in [M3Nets
                             <p></p>
                             <em>BEng in mechanical engineering (with honors)</em>   2019.09 - 2023.06(expected)
                             <p></p>
-                            <strong>GPA: 3.83/4 90.7/100</strong> 
+                            <strong>GPA:</strong>3.83/4 <strong>Weighted Score:</strong>91.85/100 
                             <P>Courses: Calculus (100/100), Computer Science and Programming (100/100), Data Management and Artifitial Intelligence (100/100), Probability and Statistic (100/100), Introduction to deep learning and its applications (96/100), Linear Algebra (95/100), Natural Language Processing (91/100) </P>
                         </td>
                     </tr>
                 </tbody>
             </table>
+
 
 ## Publication
 
