@@ -11,8 +11,6 @@ I am currently a third-year undergraduate student at [Beihang University](www.bu
 
 I spent wonderful time and laid a solid foundation in complex network in [M3Nets](m3nets.de) at National Key Laboratory of CNS/ATM, supervised by Prof. [Sebastian Wandelt](http://m3nets.de/group/sw.html). Currently, I am a research intern in [WISC Lab](https://www.cse.cuhk.edu.hk/irwin.king/wisc_lab/home), studying graph learning in hyperbolic space under the guidance of Prof. [Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home).
 
-<strong><font color=red>I am looking for a Ph.D. position starting from 2023 Fall! I am passionate about graph learning, complex network and data mining. If you have any helpful information, please contact me! Thank you very much!</font></strong>
-
 ## Education
 
    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
