@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fourth-year undergraduate student at [Beihang University](www.buaa.edu.cn)  My research interests lie on federated learning.
+I am currently a fourth-year undergraduate student at [Beihang University](www.buaa.edu.cn)  I will become a Ph.D. student at the Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), under the supervision of [Prof. Hong Xu](https://henryhxu.github.io/).
 
-Previously, I spent wonderful time and laid a solid foundation in complex network in [M3Nets](m3nets.de) at National Key Laboratory of CNS/ATM, supervised by Prof. [Sebastian Wandelt](http://m3nets.de/group/sw.html).  After that, I became a research intern in [WISC Lab](https://www.cse.cuhk.edu.hk/irwin.king/wisc_lab/home), studying graph learning in hyperbolic space under the guidance of Prof. [Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home). 
-
-
+My research interests lie on federated learning.
 
 ## Education
 
@@ -19,12 +17,22 @@ Previously, I spent wonderful time and laid a solid foundation in complex networ
                 <tbody>
                     <tr>
                         <td style="padding:20px;width:30%;vertical-align:middle">
+                            <img src="../images/CUHK_logo.png" width="160" height="160">
+                        </td>
+                        <td style="padding:20px;width:100%;vertical-align:middle">
+                                <papertitle>The Chinese University of Hong Kong, Hong Kong SAR
+                            </papertitle>
+                            <p></p>
+                            <em>Ph.D. in Computer Science and Engineering</em>,  Forthcoming
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="padding:20px;width:30%;vertical-align:middle">
                             <img src="../images/beihang.png" width="160" height="160">
                         </td>
                         <td style="padding:20px;width:100%;vertical-align:middle">
-                            <a href="https://ev.buaa.edu.cn/">
                                 <papertitle>Beihang University, China</papertitle>
-                            </a>
                             <p></p>
                             <em>BEng in mechanical engineering (with honors)</em>   2019.09 - 2023.06(expected)
                             <p></p>
@@ -37,7 +45,8 @@ Previously, I spent wonderful time and laid a solid foundation in complex networ
 
 
 
-## Publication
+
+## Publications
 
  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
                 <tbody>
@@ -79,6 +88,82 @@ and scalability.</p>
                     </tr>
                 </tbody>
             </table>
+## Research Experiences
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+                <tbody>
+                    <tr>
+                        <td style="padding:20px;width:30%;vertical-align:middle">
+                            <img src="../images/covid_gnn.jpg" width="200" height="150">
+                        </td>
+                        <td style="padding:20px;width:100%;vertical-align:middle">
+                            <papertitle>Impact of Non-Pharmaceutical Interventions in the COVID-19 Pandemic</papertitle>
+                            <p></p>
+                            <p></p>
+                            2022.03 - 2022.12
+                            <br>
+                            Supervised by <a href="https://sites.google.com/view/lijia">Prof. Jia Li</a>
+                            <br>
+                            <ul style="padding-left:20px;margin:5px">
+                                <li>
+                                    Proposed a method based on deep point process to predict the trajectory of confirmed case. 
+                                </li>
+                                <li>
+                                    Modelling and studying the impact of government policies on the spread of epidemics.
+                                </li>
+                            </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="padding:20px;width:30%;vertical-align:middle">
+                            <img src="../images/HGCN.png" width="200" height="150">
+                        </td>
+                        <td style="padding:20px;width:100%;vertical-align:middle">
+                            <papertitle>Graph learning on Hyperbolic Space</papertitle>
+                            <p></p>
+                            <p></p>
+                            2022.03 - 2022.08
+                            <br>
+                            Supervised by <a href="https://www.cse.cuhk.edu.hk/irwin.king/home">Prof. Irwin King</a> and <a href="https://yangmenglin.site/">Dr. Menglin Yang</a>
+                            <br>
+                            <ul style="padding-left:20px;margin:5px">
+                                <li>
+                                    Studying how to build graph neutral networks in a Riemannian space.
+                                </li>
+                                <li>
+                                    Studying the application of hyperbolic graph neural networks in recommendation system.
+                                </li>
+                            </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="padding:20px;width:30%;vertical-align:middle">
+                            <img src="../images/network_robustness.png" width="200" height="150">
+                        </td>
+                        <td style="padding:20px;width:100%;vertical-align:middle">
+                            <papertitle>Complex network robustness: What are the fundamental principles underlying the robustness of a connected system?</papertitle>
+                            <p></p>
+                            <p></p>
+                            2020.07 - 2021.04
+                            <br>
+                            Supervised by <a href="http://m3nets.de/group/sw.html">Prof. Sebastian Wandelt</a> and <a href="http://m3nets.de/group/xs.html">Prof. Xiaoqian Sun</a>
+                            <br>
+                            <ul style="padding-left:20px;margin:5px">
+                                <li>
+                                    Designed an exact method for measuring the effectiveness of a dismantling strategy for a network with linear runtime of the
+network size, which is significant faster than existing methods
+                                </li>
+                                <li>
+                                    Proposed novel network dismantle techniques based on genetic algorithms and percolation process. 
+                                </li>
+                            </ul>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+
+
+
 
 ## Teaching Assistance
 
@@ -101,7 +186,7 @@ and scalability.</p>
                                 <li>Graph:  depth-first search, breadth-first search, shortest path, minimum spanning tree</li>
                             </ul>
                         </td>
-                    </tr>         
+                    </tr>      
                     <tr>
                         <td style="padding:20px;width:30%;vertical-align:middle">
                             <img src="../images/DMAI.png" width="200" height="160">
@@ -247,11 +332,23 @@ frequency of intra-genre artists.
 
 ## Awards
 
-2019-2021 Studies Excellent Scholarship of BUAA  (Top 10%)
+2019-2021 The first price of the Learning Excellent Scholarship of BUAA 
 
-2019-2020 University-level Excellent Student (Top 5%)
+2019-2020 Excellent Student of BUAA
 
-2020-2021 University-level merit student (Top 5%)
+2020-2021 Merit student of BUAA 
 
-2020-2021 University-level social work Outstanding Second prize (Top 20%)
+2020-2021 The second prize of Social Work Outstanding Scholarship of BUAA
+
+2020-2021 The second price of the Learning Excellent Scholarship of BUAA  
+
+2020-2021 The first prize of Discipline Competition Scholarship of BUAA
+
+2021-2022 Merit student of BUAA
+
+2021-2022 The second price of the Learning Excellent Scholarship of BUAA  
+
+2021-2022 The first prize of Social Work Outstanding Scholarship of BUAA
+
+
 
