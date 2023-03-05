@@ -332,23 +332,15 @@ frequency of intra-genre artists.
 
 ## Awards
 
-2019-2021 The first price of the Learning Excellent Scholarship of BUAA 
+2019-2020, 2020-2021, 2021-2022 Learning Excellent Scholarship of BUAA 
 
 2019-2020 Excellent Student of BUAA
 
-2020-2021 Merit student of BUAA 
+2020-2021, 2021-2022 Merit student of BUAA 
 
-2020-2021 The second prize of Social Work Outstanding Scholarship of BUAA
+2020-2021, 2021-2022 Social Work Outstanding Scholarship of BUAA
 
-2020-2021 The second price of the Learning Excellent Scholarship of BUAA  
-
-2020-2021 The first prize of Discipline Competition Scholarship of BUAA
-
-2021-2022 Merit student of BUAA
-
-2021-2022 The second price of the Learning Excellent Scholarship of BUAA  
-
-2021-2022 The first prize of Social Work Outstanding Scholarship of BUAA
+2020-2021 Discipline Competition Scholarship of BUAA
 
 
 
