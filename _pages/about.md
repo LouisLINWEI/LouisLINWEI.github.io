@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fourth-year undergraduate student at [Beihang University](www.buaa.edu.cn)  I will become a Ph.D. student at the Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), under the supervision of [Prof. Hong Xu](https://henryhxu.github.io/).
+I am currently a first-year Ph.D. student  at the Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), under the supervision of [Prof. Hong Xu](https://henryhxu.github.io/).  I received my BEng from  [Beihang Universit](www.buaa.edu.cn) in 2023. 
 
-My research interests lie on federated learning.
+My research interests lie on federated learning and learning to optimize.
 
 ## Education
 
@@ -23,7 +23,7 @@ My research interests lie on federated learning.
                                 <papertitle>The Chinese University of Hong Kong, Hong Kong SAR
                             </papertitle>
                             <p></p>
-                            <em>Ph.D. in Computer Science and Engineering</em>,  Forthcoming
+                            <em>Ph.D. in Computer Science and Engineering</em>,  2023.08 - current
                             <p></p>
                         </td>
                     </tr>
@@ -34,10 +34,9 @@ My research interests lie on federated learning.
                         <td style="padding:20px;width:100%;vertical-align:middle">
                                 <papertitle>Beihang University, China</papertitle>
                             <p></p>
-                            <em>BEng in mechanical engineering (with honors)</em>   2019.09 - 2023.06(expected)
+                            <em>BEng in mechanical engineering (with honors)</em>   2019.09 - 2023.06
                             <p></p>
                             <strong>GPA:</strong>3.82/4 <strong>Weighted Score:</strong>91.5/100 
-                            <P>Courses: Calculus (100/100), Computer Science and Programming (100/100), Data Management and Artifitial Intelligence (100/100), Probability and Statistic (100/100), Introduction to deep learning and its applications (96/100), Linear Algebra (95/100), Natural Language Processing (91/100) </P>
                         </td>
                     </tr>
                 </tbody>
@@ -61,7 +60,7 @@ My research interests lie on federated learning.
                             <br>
                             <strong>Wei Lin</strong>, <a href="http://m3nets.de/group/sw.html">Sebastian Wandelt,</a> <a href="http://m3nets.de/group/xs.html">Xiaoqian Sun</a>
                             <br>
-                            <em>Soft Computing</em>, 2021  <font color="red"><strong>IF=3.732 (Q2)</strong></font>
+                            <em>Soft Computing</em>, 2021  
                             <br>
                             <a href="../files/SOCO.pdf">pdf</a> 
                             <p>In this study, we propose a novel network attack technique based on genetic algorithms. Results show that our novel technique significantly outperforms the state-of-the-art methods, providing an interesting sweet spot between attack quality and computational complexity.</p>
@@ -78,7 +77,7 @@ My research interests lie on federated learning.
                             <br>
                             <a href="http://m3nets.de/group/sw.html">Sebastian Wandelt</a>, <strong>Wei Lin</strong>, <a href="http://m3nets.de/group/xs.html">Xiaoqian Sun</a>
                             <br>
-                            <em>Reliability Engineering & System Safety</em>, 2021  <font color="red"><strong>IF=7.247 (Q1) </strong></font>
+                            <em>Reliability Engineering & System Safety</em>, 2021  
                             <br>
                             <a href="../files/RESS.pdf">pdf</a>
                             <p>In this study, we propose a novel perspective to solve the network dismantling problem. Instead of designing an effective attack from scratch, we show how knowledge extracted from random failures in the network leads to extremely effective attacks. Experiments on a wide range of networks show the
@@ -88,6 +87,7 @@ and scalability.</p>
                     </tr>
                 </tbody>
             </table>
+
 ## Undergraduate Research Experiences
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
