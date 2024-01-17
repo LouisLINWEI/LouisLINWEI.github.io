@@ -48,15 +48,9 @@ My research interests lie on federated learning and learning to optimize.
 
 ## Publications
 
-1. Fed2Com: Towards Efficient Compression in Federated Learning
-   Yu Zhang\*, **Wei Lin**\*, Sisi Chen, Qingyu Song, Jiaxun Lu, Yunfeng Shao, Bei Yu, Hong Xu
-   IEEE ICNC, 2023
-2. [Efficient network dismantling through genetic algorithms](https://louislinwei.github.io/files/SOCO.pdf)
-   **Wei Lin**, Sebastian Wandelt, Xiaoqian Sun
-   *Soft Computing*, 2021
-3. [From random failures to targeted attacks in network dismantling](https://louislinwei.github.io/files/RESS.pdf)
-   Sebastian Wandelt, **Wei Lin**, Xiaoqian Sun
-   *Reliability Engineering & System Safety*, 2021
+1. Fed2Com: Towards Efficient Compression in Federated Learning<br />Yu Zhang\*, **Wei Lin**\*, Sisi Chen, Qingyu Song, Jiaxun Lu, Yunfeng Shao, Bei Yu, Hong Xu<br />IEEE ICNC, 2023
+2. Efficient network dismantling through genetic algorithms](https://louislinwei.github.io/files/SOCO.pdf)<br />**Wei Lin**, Sebastian Wandelt, Xiaoqian Sun<br />*Soft Computing*, 2021
+3. From random failures to targeted attacks in network dismantling](https://louislinwei.github.io/files/RESS.pdf)<br />Sebastian Wandelt, **Wei Lin**, Xiaoqian Sun<br />*Reliability Engineering & System Safety*, 2021
 
 
 
