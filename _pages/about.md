@@ -48,13 +48,16 @@ My research interests lie on federated learning and learning to optimize.
 
 ## Publications
 
-1. Fed2Com: Towards Efficient Compression in Federated Learning<br />Yu Zhang\*, **Wei Lin**\*, Sisi Chen, Qingyu Song, Jiaxun Lu, Yunfeng Shao, Bei Yu, Hong Xu<br />IEEE ICNC, 2023
-2. [Efficient network dismantling through genetic algorithms](https://louislinwei.github.io/files/SOCO.pdf)<br />**Wei Lin**, Sebastian Wandelt, Xiaoqian Sun<br />*Soft Computing*, 2021
-3. [From random failures to targeted attacks in network dismantling](https://louislinwei.github.io/files/RESS.pdf)<br />Sebastian Wandelt, **Wei Lin**, Xiaoqian Sun<br />*Reliability Engineering & System Safety*, 2021
+1. [Towards Robust Learning to Optimize with Theoretical Guarante](https://openaccess.thecvf.com/content/CVPR2024/papers/Song_Towards_Robust_Learning_to_Optimize_with_Theoretical_Guarantees_CVPR_2024_paper.pdf)<br />Q Song, **W Lin**, J Wang, H Xu<br />*IEEE/CVF CVPR*, 2024
+2. Personalized Federated Learning with Auction-Based Client Selection and Edge-Enhanced Model Accuracy<br />K Mo, X Li, **W Lin**, H Xu, Z Li, C Xue<br />*IEEE IJCNN*, 2024
+2. [Fed2Com: Towards Efficient Compression in Federated Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10556165)<br />Y Zhang\*, **W Lin**\*, S Chen, Q Song, J Lu, Y Shao, B Yu, H Xu<br />IEEE ICNC, 2024
+3. Coordinated last-mile deliveries with trucks and drones: A comparative study of operational modes<br />Y Ding, J Wan, **W Lin**, K Wang<bv />*Journal of the Air Transport Research Society*, 2024
+4. [Efficient network dismantling through genetic algorithms](https://louislinwei.github.io/files/SOCO.pdf)<br />**W Lin**, S Wandelt, X Sun<br />*Soft Computing*, 2021
+5. [From random failures to targeted attacks in network dismantling](https://louislinwei.github.io/files/RESS.pdf)<br />S Wandelt, **W Lin**, X Sun<br />*Reliability Engineering & System Safety*, 2021
 
 
 
-\* Equal contribution
+
 
 ## Teaching 
 
@@ -108,15 +111,19 @@ Introduction to Computer Science and Programming, BUAA, 2020
 
 ## Awards
 
-2019-2020, 2020-2021, 2021-2022 Learning Excellent Scholarship of BUAA 
+2023-2027 Postgraduate Studentship, CUHK
 
-2019-2020 Excellent Student of BUAA
+2023 Excellent Graduate, BUAA
 
-2020-2021, 2021-2022 Merit student of BUAA 
+2019-2020, 2020-2021, 2021-2022 Learning Excellent Scholarship, BUAA 
 
-2020-2021, 2021-2022 Social Work Outstanding Scholarship of BUAA
+2019-2020 Excellent Student, BUAA
 
-2020-2021 Discipline Competition Scholarship of BUAA
+2020-2021, 2021-2022 Merit student, BUAA 
+
+2020-2021, 2021-2022 Social Work Outstanding Scholarship, BUAA
+
+2020-2021 Discipline Competition Scholarship, BUAA
 
 
 
