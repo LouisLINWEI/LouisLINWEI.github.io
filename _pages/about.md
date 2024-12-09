@@ -54,7 +54,7 @@ My research interests lie on federated learning and learning to optimize.
 
 4. [Fed2Com: Towards Efficient Compression in Federated Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10556165)<br />Y Zhang\*, **W Lin**\*, S Chen, Q Song, J Lu, Y Shao, B Yu, H Xu<br />IEEE ICNC, 2024
 
-5. Coordinated last-mile deliveries with trucks and drones: A comparative study of operational modes<br />Y Ding, J Wan, **W Lin**, K Wang<bv />*Journal of the Air Transport Research Society*, 2024
+5. [Coordinated last-mile deliveries with trucks and drones: A comparative study of operational modes](https://www.sciencedirect.com/science/article/pii/S2941198X24000368)<br />Y Ding, J Wan, **W Lin**, K Wang<bv />*Journal of the Air Transport Research Society*, 2024
 
 6. [Efficient network dismantling through genetic algorithms](https://louislinwei.github.io/files/SOCO.pdf)<br />**W Lin**, S Wandelt, X Sun<br />*Soft Computing*, 2021
 
