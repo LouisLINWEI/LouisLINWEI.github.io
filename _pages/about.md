@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year Ph.D. student  at the Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), under the supervision of [Prof. Hong Xu](https://henryhxu.github.io/).  I received my BEng from  [Beihang University](www.buaa.edu.cn) in 2023. 
+I am currently a second-year Ph.D. student  at the Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), under the supervision of [Prof. Hong Xu](https://henryhxu.github.io/).  I received my BEng from  [Beihang University](www.buaa.edu.cn) in 2023. 
 
 My research interests lie on federated learning and learning to optimize.
 
