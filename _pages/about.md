@@ -42,32 +42,39 @@ My research interests lie on federated learning and learning to optimize.
                 </tbody>
             </table>
 
-
-## Publications
+## Preprints
 
 1. [The Multi-Query Paradox in Zeroth-Order Optimization](http://arxiv.org/abs/2509.15552)<br /> **W Lin**, Q Song, H Xu<br />*arXiv preprint*
 
 2. [A Learn-to-Optimize Approach for Coordinate-Wise Step Sizes for Quasi-Newton Methods](https://arxiv.org/abs/2412.00059)<br /> **W Lin**, Q Song, H Xu<br />*arXiv preprint*
 
-3. [Learning Provably Improves the Convergence of Gradient Descent](https://www.arxiv.org/abs/2501.18092) <br />Q Song, **W Lin**, H Xu<br />*NeurIPS*, 2025
+3. [A Systematic Evaluation of On-Device LLMs: Quantization, Performance, and Resources](https://arxiv.org/abs/2505.15030)<br /> Q Song, R Liu, **W Lin**, P Liao, W Zhao, Y Wang, S Hu, Y Jiang, M Long, H Zhen, N Jiang, M Yuan, Q Xiang, H Xu<br />*arXiv preprint*
 
-4. [GHPFL: Advancing Personalized Edge-Based Learning Through Optimized Bandwidth Utilization](https://ieeexplore.ieee.org/abstract/document/10879314)<br />K Mo, **W Lin**, J Lu, C Xue, Y Shao, H Xu<br />*IEEE TCC*, 2025
+## Publications
 
-5. [Towards Robust Learning to Optimize with Theoretical Guarante](https://openaccess.thecvf.com/content/CVPR2024/papers/Song_Towards_Robust_Learning_to_Optimize_with_Theoretical_Guarantees_CVPR_2024_paper.pdf)<br />Q Song, **W Lin**, J Wang, H Xu<br />*IEEE/CVF CVPR*, 2024
+1. [AGZO: Activation-Guided Zeroth-Order Optimization for LLM Fine-Tuning](https://arxiv.org/abs/2601.17261)<br /> **W Lin**, Y Jiang, Q Song, Qiao Xiang, H Xu<br />*ICML*, 2026
 
-6. [Personalized Federated Learning with Auction-Based Client Selection and Edge-Enhanced Model Accuracy](https://ieeexplore.ieee.org/abstract/document/10650279)<br />K Mo, X Li, **W Lin**, H Xu, Z Li, C Xue<br />*IEEE IJCNN*, 2024
+2. [Learning Provably Improves the Convergence of Gradient Descent](https://www.arxiv.org/abs/2501.18092) <br />Q Song, **W Lin**, H Xu<br />*NeurIPS*, 2025
 
-7. [Fed2Com: Towards Efficient Compression in Federated Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10556165)<br />Y Zhang\*, **W Lin**\*, S Chen, Q Song, J Lu, Y Shao, B Yu, H Xu<br />*IEEE ICNC*, 2024
+3. [GHPFL: Advancing Personalized Edge-Based Learning Through Optimized Bandwidth Utilization](https://ieeexplore.ieee.org/abstract/document/10879314)<br />K Mo, **W Lin**, J Lu, C Xue, Y Shao, H Xu<br />*IEEE TCC*, 2025
 
-8. [Coordinated last-mile deliveries with trucks and drones: A comparative study of operational modes](https://www.sciencedirect.com/science/article/pii/S2941198X24000368)<br />Y Ding, J Wan, **W Lin**, K Wang<br />*Journal of the Air Transport Research Society*, 2024
+4. [Towards Robust Learning to Optimize with Theoretical Guarante](https://openaccess.thecvf.com/content/CVPR2024/papers/Song_Towards_Robust_Learning_to_Optimize_with_Theoretical_Guarantees_CVPR_2024_paper.pdf)<br />Q Song, **W Lin**, J Wang, H Xu<br />*IEEE/CVF CVPR*, 2024
 
-9. [Efficient network dismantling through genetic algorithms](https://louislinwei.github.io/files/SOCO.pdf)<br />**W Lin**, S Wandelt, X Sun<br />*Soft Computing*, 2021
+5. [Personalized Federated Learning with Auction-Based Client Selection and Edge-Enhanced Model Accuracy](https://ieeexplore.ieee.org/abstract/document/10650279)<br />K Mo, X Li, **W Lin**, H Xu, Z Li, C Xue<br />*IEEE IJCNN*, 2024
 
-10. [From random failures to targeted attacks in network dismantling](https://louislinwei.github.io/files/RESS.pdf)<br />S Wandelt, **W Lin**, X Sun<br />*Reliability Engineering & System Safety*, 2021
+6. [Fed2Com: Towards Efficient Compression in Federated Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10556165)<br />Y Zhang\*, **W Lin**\*, S Chen, Q Song, J Lu, Y Shao, B Yu, H Xu<br />*IEEE ICNC*, 2024
+
+7. [Coordinated last-mile deliveries with trucks and drones: A comparative study of operational modes](https://www.sciencedirect.com/science/article/pii/S2941198X24000368)<br />Y Ding, J Wan, **W Lin**, K Wang<br />*Journal of the Air Transport Research Society*, 2024
+
+8. [Efficient network dismantling through genetic algorithms](https://louislinwei.github.io/files/SOCO.pdf)<br />**W Lin**, S Wandelt, X Sun<br />*Soft Computing*, 2021
+
+9. [From random failures to targeted attacks in network dismantling](https://louislinwei.github.io/files/RESS.pdf)<br />S Wandelt, **W Lin**, X Sun<br />*Reliability Engineering & System Safety*, 2021
 
 
 
 ## Teaching 
+
+ENGG 2440 Discrete Mathematics for Engineers, CUHK, 2025
 
 ENGG 1120E Linear Algebra for Engineers, CUHK, 2024
 
@@ -96,4 +103,8 @@ Introduction to Computer Science and Programming, BUAA, 2020
 2020-2021 Discipline Competition Scholarship, BUAA
 
 
+
+## Service
+Conference Reviewer: ICML 2026, AAAI 2026, NeurIPS 2025, ICLR 2025
+Jounal Reviewer: TNSE
 
