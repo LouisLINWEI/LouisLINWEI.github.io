@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a third-year Ph.D. student  at the Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), under the supervision of [Prof. Hong Xu](https://henryhxu.github.io/).  I received my BEng from  [Beihang University](www.buaa.edu.cn) in 2023. 
 
-My research interests lie on federated learning and learning to optimize.
+My research explores the symbiotic relationship between machine learning and mathematical optimization through two main avenues. The first is Optimization for Learning, where I design novel algorithms to improve model training. A key focus here is zeroth-order (gradient-free) optimization for high-dimensional tasks, such as forward-pass-only LLM finetuning. The second is Learning to Optimize, where I leverage deep learning to automatically discover rapid solution strategies for entire classes of optimization problems. Additionally, my background includes addressing distributed system challenges by developing communication-efficient federated learning algorithms
 
 ## Education
 
